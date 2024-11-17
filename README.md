@@ -47,6 +47,10 @@ O script realiza as seguintes configurações automaticamente:
 git clone https://github.com/rafaWPP/install-wuzapi.git
 ```
 
+```bash
+cd install-wuzapi
+```
+
 2. Torne o Script Executável
 ```bash
 chmod +x install.sh
