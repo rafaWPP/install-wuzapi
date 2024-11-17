@@ -44,7 +44,7 @@ O script realiza as seguintes configurações automaticamente:
 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/seuusuario/install-wuzapi.git
+git clone https://github.com/rafaWPP/install-wuzapi.git
 ```
 
 2. Torne o Script Executável
