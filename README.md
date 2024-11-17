@@ -58,36 +58,34 @@ chmod +x install.sh
 ```
 
 ## 📝 Exemplos de Entrada
-Durante a execução do script, você será solicitado a fornecer algumas informações. Aqui estão exemplos do que você pode fornecer:
 
-Usuário do Banco de Dados: wuzapi
-Senha do Banco de Dados: senha123
-Nome do Banco de Dados: wuzapidb
-Porta da Aplicação: 8080
-Nome do Processo no PM2: wuzapi
-Token de Administrador: ABCD1234
-🎯 Resultado Esperado
-Após a conclusão do instalador:
+Durante a execução do script, você será solicitado a fornecer algumas informações. Aqui estão exemplos do que você pode fornecer:  
 
-O banco de dados PostgreSQL será configurado.
-O repositório será clonado na pasta definida pelo usuário.
-Um arquivo .env será gerado no diretório do repositório.
-A aplicação será compilada.
-O PM2 será configurado para gerenciar a execução da aplicação.
-📂 Estrutura do Repositório
-plaintext
-Copiar código
+Usuário do Banco de Dados: wuzapi  
+Senha do Banco de Dados: senha123  
+Nome do Banco de Dados: wuzapidb  
+Porta da Aplicação: 8080  
+Nome do Processo no PM2: wuzapi  
+Token de Administrador: ABCD1234  
+
+---
+
+## 🎯 Resultado Esperado
+
+Após a conclusão do instalador:  
+
+- O banco de dados PostgreSQL será configurado.  
+- O repositório será clonado na pasta definida pelo usuário.  
+- Um arquivo `.env` será gerado no diretório do repositório.  
+- A aplicação será compilada.  
+- O PM2 será configurado para gerenciar a execução da aplicação.  
+
+---
+
+## 📂 Estrutura do Repositório
+
+```plaintext
 install-wuzapi/
 ├── install.sh         # Script principal do instalador
 ├── README.md          # Documentação do instalador
-🤝 Contribuições
-Contribuições são bem-vindas! Caso deseje colaborar, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-🛡️ Licença
-Este projeto é licenciado sob a MIT License.
-
-🖐️ Suporte
-Caso tenha dúvidas ou encontre problemas, abra uma issue no repositório do projeto.
-
-📢 Nota
-Certifique-se de substituir seuusuario pelo nome do seu perfil ou organização no GitHub antes de publicar este arquivo no repositório."# install-wuzapi" 
