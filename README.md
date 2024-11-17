@@ -43,18 +43,23 @@ O script realiza as seguintes configurações automaticamente:
 
 ### 1. Clone o Repositório
 
+1. Clone o Repositório
+
 ```bash
 git clone https://github.com/seuusuario/install-wuzapi.git
-cd install-wuzapi
+```
+
 2. Torne o Script Executável
-bash
-Copiar código
+```bash
 chmod +x install.sh
+```
+
 3. Execute o Instalador
-bash
-Copiar código
+```bash
 ./install.sh
-📝 Exemplos de Entrada
+```
+
+## 📝 Exemplos de Entrada
 Durante a execução do script, você será solicitado a fornecer algumas informações. Aqui estão exemplos do que você pode fornecer:
 
 Usuário do Banco de Dados: wuzapi
