@@ -41,8 +41,6 @@ O script realiza as seguintes configurações automaticamente:
 
 ## 🚀 Como Usar
 
-### 1. Clone o Repositório
-
 1. Clone o Repositório
 
 ```bash
